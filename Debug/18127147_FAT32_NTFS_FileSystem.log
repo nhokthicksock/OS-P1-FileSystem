@@ -1,0 +1,8 @@
+﻿  DiskInfo.cpp
+C:\Users\SunShineTM\Desktop\OperaSystem-P1-DocumentSystem\DiskInfo.cpp(114,22): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\SunShineTM\Desktop\OperaSystem-P1-DocumentSystem\DiskInfo.cpp(166,37): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\SunShineTM\Desktop\OperaSystem-P1-DocumentSystem\DiskInfo.cpp(167,38): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+  main.cpp
+C:\Users\SunShineTM\Desktop\OperaSystem-P1-DocumentSystem\main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  18127147_FAT32_NTFS_FileSystem.vcxproj -> C:\Users\SunShineTM\Desktop\OperaSystem-P1-DocumentSystem\Debug\18127147_FAT32_NTFS_FileSystem.exe
