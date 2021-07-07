@@ -20,7 +20,7 @@ void Program::run()
 		system("cls");
 		
 		cout << "  FIT HCMUS - Operating System - Project 1" << "\n";
-		cout << "  * La Hoàng Long - 18127017" << "\n";
+		cout << "  * La HoÃ ng Long - 18127133" << "\n";
 		
 
 		cout << "  ===== ACCESS DATA OF A FILE =====" << "\n\n";
