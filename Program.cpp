@@ -20,10 +20,9 @@ void Program::run()
 		system("cls");
 		
 		cout << "  FIT HCMUS - Operating System - Project 1" << "\n";
-		cout << "  * La Hoàng Long - 18127133" << "\n";
 		
 
-		cout << "  ===== ACCESS DATA OF A FILE =====" << "\n\n";
+		cout << "  ===== 	ACCESS DATA OF A FILE 	=====" << "\n\n";
 		cout << "  Program: * Input the path of a file you want to access." << "\n\n";
 		cout << "           * Input <q> to exit this program." << "\n\n";
 		cout << "  User: ";
